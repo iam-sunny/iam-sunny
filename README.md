@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**riyduaa/riyduaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=✨%20Riydua%20✨&fontAlignY=40&color=gradient&fontSize=50)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Kim+SY✨)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://riyduaa.github.io/)](https://riyduaa.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:riyduaa@gmail.com)](mailto:riyduaa@gmail.com)
+
+## 🛠 Skills
+
+  ![HTML5](https://img.shields.io/badge/Html-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?&style=for-the-badge&logo=Javascript&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/Typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=GraphQL&logoColor=white)
+
+</div>
