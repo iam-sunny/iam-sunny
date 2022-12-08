@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Hello,%20World!%20&fontSize=40&fontAlignY=40" width="100%" />
   
-  <img align="right" src="/github-metrics.svg" alt="Metrics" width="400" />
+  
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%98%8E;Riydua's+Github%E2%9C%A8" alt="Typing SVG" /></a>
   
