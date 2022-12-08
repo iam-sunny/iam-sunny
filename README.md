@@ -1,32 +1,25 @@
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20Hello,%20World!%20&fontSize=50&fontAlignY=40" width="100%" />
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=%20Hello,%20World!%20&fontAlignY=40&color=gradient&fontSize=50)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome😎;Riydua's+Github✨)](https://git.io/typing-svg)
+  <img align="right" src="/github-metrics.svg" alt="Metrics" width="400" />
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://riyduaa.github.io/)](https://riyduaa.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:riyduaa@gmail.com)](mailto:riyduaa@gmail.com)
-
-</div>
-<br/>
-<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%98%8E;Riydua's+Github%E2%9C%A8" alt="Typing SVG" /></a>
   
-  ## 🛠 Skills
+  <a href="https://riyduaa.github.io"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://riyduaa.github.io" /></a>
+  <a href="mailto:riyduaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:riyduaa@gmail.com" /></a>
 
-  ![HTML5](https://img.shields.io/badge/Html-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white)
-  ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?&style=for-the-badge&logo=Javascript&logoColor=white)
-  ![Typescript](https://img.shields.io/badge/Typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=GraphQL&logoColor=white)
-
-</div>
-<br/>
-<div align="center">
-
-## 🌱 Stats
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+  <br />
   
+  ### 🛠 Skills
+
+  <img src="https://img.shields.io/badge/Html-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?&style=for-the-badge&logo=Javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=GraphQL&logoColor=white" />
+
 </div>
 
