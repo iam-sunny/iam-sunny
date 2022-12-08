@@ -28,7 +28,7 @@ jobs:
           # Options
           user: riyduaa
           template: classic
-          base: header, repositories
+          base: header
           config_timezone: Asia/Seoul
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
