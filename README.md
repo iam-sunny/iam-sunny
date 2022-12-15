@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Hello,%20World!%20&fontSize=40&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Hello,%20World!%20&animation=twinkling&fontSize=40&fontAlignY=40" width="100%" />
   
   <img align="right" src="/github-metrics.svg" alt="Metrics" width="400" />
   
