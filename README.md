@@ -11,7 +11,7 @@
 
   <br />
   
-  ### 🛠 Skills
+  ### 🛠 I used
 
   <img src="https://img.shields.io/badge/Html-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
