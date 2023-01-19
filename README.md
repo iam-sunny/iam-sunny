@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Emotion-D36AC2?&style=for-the-badge&logo=Emotion&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?&style=for-the-badge&logo=GraphQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recoil-007AF4?&style=for-the-badge&logo=Recoil&logoColor=white" />
 
   
   ### ⛏ Tools
