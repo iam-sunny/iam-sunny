@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20Hello,%20World!%20&animation=twinkling&fontSize=40&fontAlignY=40" width="100%" alt="header" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%98%8E;Kimsy's+Github%E2%9C%A8" alt="Typing SVG" />
+  ### <img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&center=true&vCenter=true&width=300&lines=Welcome%F0%9F%98%8E;Kimsy's+Github%E2%9C%A8" alt="Typing SVG" />
   
   <a href="https://kim228sy.github.io"><img src="http://img.shields.io/badge/-Tech Record-181717?style=flat&logo=github&link=https://kim28sy.github.io" /></a>
   <a href="mailto:kim228sy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kim28sy@gmail.com" /></a>
