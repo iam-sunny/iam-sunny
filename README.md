@@ -6,7 +6,7 @@
   
   <a href="https://nextjs-portfolio-self-sy.vercel.app/"><img src="http://img.shields.io/badge/Portfolio-000000?style=flat&logo=Vercel&link=https://nextjs-portfolio-self-sy.vercel.app/" /></a>
   <a href="https://iam-sunny.github.io"><img src="http://img.shields.io/badge/Record-222222?style=flat&logo=github&link=https://iam-sunny.github.io" /></a>
-  <a href="mailto:iam-sunny@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kim28sy@gmail.com" /></a>
+  <a href="mailto:kimssy28@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kimssy28@gmail.com" /></a>
   
   <img align="right" src="/github-metrics.svg" width="400" alt="Metrics" />
   
